@@ -44,15 +44,15 @@
 * установить утилиту calicoctl;
 * получить 3 вышеописанных типа в консоли.
 
-## Ответ: устилита установлена.
+## Ответ: 
+ 
+Утилита установлена.
 
 ![image](https://user-images.githubusercontent.com/92969676/189840100-8837fc82-1eb4-46b5-9958-9cb764518414.png)
 
 ![image](https://user-images.githubusercontent.com/92969676/189840572-3e4ba651-bce5-4d6f-9410-9a65b0b00d9e.png)
 
-
- 
-
+![image](https://user-images.githubusercontent.com/92969676/189840994-e824a4c0-124b-4d5e-bd81-a32ee115d05a.png)
 
 ### Как оформить ДЗ?
 
