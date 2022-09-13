@@ -16,6 +16,8 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/189826950-783fe643-6bec-45da-b1f0-3a74302a3107.png)
 
+![Uploading image.png…]()
+
 Конфигурация хостов кластера:
 
 ![image](https://user-images.githubusercontent.com/92969676/189827559-9cd89079-65fe-434c-a5ad-6444b2fb1ed7.png)
