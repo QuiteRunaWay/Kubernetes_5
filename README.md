@@ -12,6 +12,6 @@
 
 Конфигурация хостов кластера:
 
-![image](https://user-images.githubusercontent.com/92969676/189827177-b30798e9-5181-4626-9641-3920e549d28b.png)
+![image](https://user-images.githubusercontent.com/92969676/189827559-9cd89079-65fe-434c-a5ad-6444b2fb1ed7.png)
 
-![image](https://user-images.githubusercontent.com/92969676/189827320-c750257f-1c12-4afa-8167-f987b1703578.png)
+![image](https://user-images.githubusercontent.com/92969676/189827488-e874305a-9cc3-47d5-a251-72da9d3a422b.png)
