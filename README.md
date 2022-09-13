@@ -9,3 +9,9 @@
 Далее при помощи kubspray разворачиваю кластер k8s 
 
 ![image](https://user-images.githubusercontent.com/92969676/189826950-783fe643-6bec-45da-b1f0-3a74302a3107.png)
+
+Конфигурация хостов кластера:
+
+![image](https://user-images.githubusercontent.com/92969676/189827177-b30798e9-5181-4626-9641-3920e549d28b.png)
+
+![image](https://user-images.githubusercontent.com/92969676/189827250-cf07cb6c-8a68-435a-bcfb-d88dca0d71fe.png)
