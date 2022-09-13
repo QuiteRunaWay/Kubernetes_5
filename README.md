@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/189826950-783fe643-6bec-45da-b1f0-3a74302a3107.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/92969676/189831427-3e4fa855-4292-4ca9-860a-195f5d828d25.png)
 
 Конфигурация хостов кластера:
 
@@ -25,6 +25,9 @@
 ![image](https://user-images.githubusercontent.com/92969676/189827488-e874305a-9cc3-47d5-a251-72da9d3a422b.png)
 
 Кластер разворачивается так, что у него плагин по умолчанию сразу стоит Calico, и кластер доступен по внешнему адресу 158.160.0.197 (при условии настройки нашей локальной машины. Сделал просто на будущее, если вдруг пригодится).
+
+![Uploading image.png…]()
+
 
 
 
